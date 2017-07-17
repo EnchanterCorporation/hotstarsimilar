@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hotstarsimilar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_youtubeplay">youtubeplay</string>
+    <string name="title_activity_youtubplay">youtubplay</string>
+    <string name="title_activity_youplay">youplay</string>
+    <string name="title_activity_hori">Hori</string>
+    <string name="title_activity_list2min">list2min</string>
+    <string name="title_activity_l2minlist">l2minlist</string>
+    <string name="title_activity_youplay1">youplay1</string>
+    <string name="title_activity_youplay3">youplay3</string>
+</resources>
